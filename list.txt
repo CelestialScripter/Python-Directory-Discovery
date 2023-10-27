@@ -1,1 +1,79 @@
+/admin
+/login
+/images
+/css
+/js
+/public
+/private
+/upload
+/downloads
+/documents
+/backup
+/test
+/api
+/mobile
+/support
+/blog
+/forum
+/news
+/docs
+/config
+/temp
+/cgi-bin
+/scripts
+/cache
+/dev
+/assets
+/media
+/templates
+/reports
+/services
+/stats
+/logs
+/users
+/images
+/scripts
+/tools
+/profiles
+/data
+/scripts
+/search
+/payment
+/billing
+/about
+/contact
+/terms
+/privacy
+/faq
+/error
+/feedback
+/api
 
+    scripts
+    cache
+    dev
+    assets
+    media
+    templates
+    reports
+    services
+    stats
+    logs
+    users
+    images
+    scripts
+    tools
+    profiles
+    data
+    scripts
+    search
+    payment
+    billing
+    about
+    contact
+    terms
+    privacy
+    faq
+    error
+    feedback
+    api
