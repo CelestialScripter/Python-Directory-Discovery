@@ -16,4 +16,5 @@ The main objectives of this project are as follows:
 ## Installation
 Refer to requirements.txt file to know the dependencies.
 
-
+## Usage
+``` Python3 directories.py ```
