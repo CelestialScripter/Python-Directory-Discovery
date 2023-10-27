@@ -23,7 +23,7 @@ It will create a prompt
 
 ``` [*] Enter Target URL: {url or IP ADDR} ```
 
-```    [*] Enter Name of The File Containig Directories : list.txt ```
+``` [*] Enter Name of The File Containing Directories : list.txt ```
 
 
 
