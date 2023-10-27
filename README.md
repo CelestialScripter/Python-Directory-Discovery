@@ -12,3 +12,8 @@ The main objectives of this project are as follows:
 - Security Testing: Security professionals can use this tool to perform security assessments and penetration testing on web applications. By identifying hidden or sensitive directories and files, vulnerabilities and misconfigurations can be uncovered before malicious actors have a chance to exploit them.
 
 - Web Administration: Web administrators can utilize this tool for maintenance and security purposes. It allows them to identify orphaned or forgotten directories and files, helping them maintain a cleaner and more secure web server environment.
+
+## Installation
+Refer to requirements.txt file to know the dependencies.
+
+
