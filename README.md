@@ -20,6 +20,7 @@ Refer to requirements.txt file to know the dependencies.
 ``` Python3 directories.py ```
 
 It will create a prompt 
+
 ``` [*] Enter Target URL: {url or IP ADDR} ```
 
 ```    [*] Enter Name of The File Containig Directories : list.txt ```
